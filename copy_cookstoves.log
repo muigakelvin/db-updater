@@ -1,0 +1,23 @@
+2025-03-27 08:43:10,315 - INFO - 🔹 Script started: Copy cookstoves table to SQLite
+2025-03-27 08:43:10,316 - INFO - ✅ Extracted database details: Host=localhost, Port=5434, DB=et_service_local_db
+2025-03-27 08:43:10,436 - INFO - ✅ Connected to Preprod Database!
+2025-03-27 08:43:10,791 - INFO - ✅ Retrieved 56980 rows from cookstoves table!
+2025-03-27 08:43:10,794 - INFO - ✅ Closed Preprod database connection.
+2025-03-27 08:43:10,795 - ERROR - ❌ Error saving data to SQLite: duplicate column name: id
+2025-03-27 08:43:10,795 - INFO - ✅ Closed SQLite database connection.
+2025-03-27 08:44:54,218 - INFO - 🔹 Script started: Copy cookstoves table to SQLite
+2025-03-27 08:44:54,219 - INFO - ✅ Extracted database details: Host=localhost, Port=5434, DB=et_service_local_db
+2025-03-27 08:44:54,235 - INFO - ✅ Connected to Preprod Database!
+2025-03-27 08:44:54,472 - INFO - ✅ Retrieved 56980 rows from cookstoves table!
+2025-03-27 08:44:54,475 - INFO - ✅ Closed Preprod database connection.
+2025-03-27 08:44:54,487 - INFO - ✅ SQLite table cookstoves_local created.
+2025-03-27 08:44:55,672 - INFO - ✅ Successfully inserted 56980 rows into local_data.db!
+2025-03-27 08:44:55,672 - INFO - ✅ Closed SQLite database connection.
+2025-03-27 08:45:40,227 - INFO - 🔹 Script started: Copy cookstoves table to SQLite
+2025-03-27 08:45:40,227 - INFO - ✅ Extracted database details: Host=localhost, Port=5434, DB=et_service_local_db
+2025-03-27 08:45:40,243 - INFO - ✅ Connected to Preprod Database!
+2025-03-27 08:45:40,479 - INFO - ✅ Retrieved 56980 rows from cookstoves table!
+2025-03-27 08:45:40,482 - INFO - ✅ Closed Preprod database connection.
+2025-03-27 08:45:40,482 - INFO - ✅ SQLite table cookstoves_local created.
+2025-03-27 08:45:41,625 - INFO - ✅ Successfully inserted 56980 rows into local_data.db!
+2025-03-27 08:45:41,625 - INFO - ✅ Closed SQLite database connection.
